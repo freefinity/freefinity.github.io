@@ -11,7 +11,7 @@ keep_files:
   - "CNAME"
   - ".git"
   - ".gitignore"
-
+ 
 
 # Site settings
 title: The Freefinity Project
